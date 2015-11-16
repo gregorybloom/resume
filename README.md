@@ -7,7 +7,7 @@ JavaScript (Node, Express, MEAN Stack, jQuery, JSON, Ajax), HTML5, PHP, Bash/Uni
 
 Experience with project organization, proposals, and documentation.  Believes in strong project direction and driving inter-team communication.
 
-**EXPERIENCE**
+**RECENT EXPERIENCE**
 
 **SiteLock**, Scottsdale, AZ
 11/2013 - Present
@@ -31,6 +31,8 @@ Bachelor of Applied Science, Computer (Software) Engineering
 Kingston, Ontario, Canada
 Computer (Software) Engineering
 Software development, architectural design, software algorithms, and project management.  Included embedded engineering and performance metrics.
+
+**PAST EXPERIENCE**
 
 **Merriam-Powell Center for Environmental Research**, Flagstaff, AZ
 Web Developer
