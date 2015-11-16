@@ -4,7 +4,9 @@ Gregory Bloom
 **SKILLS**
 JavaScript (Node, Express, MEAN Stack, jQuery, JSON, Ajax), HTML5, PHP, Bash/Unix, Python, MySQL, Git, CSS, Mongo, Matlab
 Experience with project organization, proposals, and documentation.  Believes in strong project direction and driving inter-team communication.
+
 **EXPERIENCE**
+
 **SiteLock**, Scottsdale, AZ
 11/2013 - Present
 Web Security Research Analyst
@@ -18,6 +20,7 @@ Web Security Research Analyst
 - Participated in sales and support calls as technical SME
 
 **EDUCATION**
+
 Master of Science in Engineering, Computer Science
 Northern Arizona University, Flagstaff, AZ
 Programming and development of application architectures and web application behavior.
@@ -44,4 +47,5 @@ Lab Assistant / Class Supervisor
 - Graded lab results and provided feedback for each student
 
 **INTERESTS**
+
 Web application penetration, web application design, game development
