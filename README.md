@@ -2,7 +2,9 @@ Gregory Bloom
 ============
 
 **SKILLS**
+
 JavaScript (Node, Express, MEAN Stack, jQuery, JSON, Ajax), HTML5, PHP, Bash/Unix, Python, MySQL, Git, CSS, Mongo, Matlab
+
 Experience with project organization, proposals, and documentation.  Believes in strong project direction and driving inter-team communication.
 
 **EXPERIENCE**
