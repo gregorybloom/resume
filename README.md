@@ -11,44 +11,48 @@ Develops JS games for fun.
 
 Malware identification and analysis (detection signatures, detection/clean regex, decoding, code analysis) 
 
+Vulnerability research, mitigation, and exploitation
+
+Team onboarding, incident handling, process development for new teams and their requirements
+
 JavaScript (Node, Express, MEAN Stack, jQuery, JSON, Ajax)
 
 PHP (WordPress, WooCommerce), Python, Bash/Linux, MySQL, Git, Bookstack, Java, CSS, HTML5
 
-Experience with project organization, proposals, and documentation.  Organizes intra-team communication
 
 **RECENT EXPERIENCE**
 
 **SiteLock**, Scottsdale, AZ
 11/2013 - Present
-Senior Web Security Research Analyst
+Senior Web Security Research Analyst, Web Vulnerability Research Analyst
 - Investigated compromised web sites, removed infections, remediated PHP XSS and SQLi flaws
-- Created detection methods for malware identification and removal
+- Created detection methods for malware detection, identification, and removal
 - De-obfuscated and researched PHP and JavaScript code for behavior analysis (both malicious and legitimate code)
 - Researched, assessed, and redesigned security patches on major CMSs and plugins for backporting and distribution to customers
 - Lead internal incident responses (from detection/clean failures) to minimize customer impact, inform upper management, and conduct post-mortem analysis.
 -	(wrote the official Incident Response Plan for internal failures relating to the team)
+- Established the mitigation, process, training, and incident handling process for both the malware analysis and vulnerability analysis teams
 - Developed sophisticated tool in Bash and Python for enhanced CMS analysis and summary reporting
 - 	(tool became part of standard protocol for entire support division for years)
 - [Authored](http://blog.sitelock.com/author/sitelockgreg/) web security articles for the SiteLock blog
-- Documented and defined the analysis and mitigation process for both the malware analysis and vulnerability analysis teams
-- Configured CDN/WAF for customers through DNS configuration, performed application troubleshooting
 - Participated in sales and support calls as technical SME
-
-**PROJECTS**
-
-CMS Analysis Suite - 
 
 
 **EDUCATION**
 
 Master of Science in Engineering, Computer Science
+
 Northern Arizona University, Flagstaff, AZ
+
 Programming and development of application architectures and web application behavior.
 
+
 Bachelor of Applied Science, Computer (Software) Engineering
+
 Kingston, Ontario, Canada
+
 Computer (Software) Engineering
+
 Software development, architectural design, software algorithms, and project management.  Included embedded engineering and performance metrics.
 
 **PAST EXPERIENCE**
