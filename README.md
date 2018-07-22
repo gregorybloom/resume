@@ -4,13 +4,17 @@ Gregory Bloom
 **PROFILE**
 
 Senior web security analyst with nearly 5 years of experience in decoding, examining, and removing malware.  Currently researches and rebuilds security patches on major plugins and CMSs to backport security fixes.  Develops tools to further automate detection and cleaning, analyzes and documents processes to improve reliability and training, and researches state of the art methods to detect malware.
+
 Develops JS games for fun.
 
 **SKILLS**
 
 Malware identification and analysis (detection signatures, detection/clean regex, decoding, code analysis) 
+
 JavaScript (Node, Express, MEAN Stack, jQuery, JSON, Ajax)
+
 PHP (WordPress, WooCommerce), Python, Bash/Linux, MySQL, Git, Bookstack, Java, CSS, HTML5
+
 Experience with project organization, proposals, and documentation.  Organizes intra-team communication
 
 **RECENT EXPERIENCE**
