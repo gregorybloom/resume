@@ -19,7 +19,6 @@ JavaScript (Node, Express, MEAN Stack, jQuery, JSON, Ajax)
 
 PHP (WordPress, WooCommerce), Python, Bash/Linux, MySQL, Git, Bookstack, Java, CSS, HTML5
 
-
 **RECENT EXPERIENCE**
 
 **SiteLock**, Scottsdale, AZ
@@ -37,7 +36,6 @@ Senior Web Security Research Analyst, Web Vulnerability Research Analyst
 - [Authored](http://blog.sitelock.com/author/sitelockgreg/) web security articles for the SiteLock blog
 - Participated in sales and support calls as technical SME
 
-
 **EDUCATION**
 
 Master of Science in Engineering, Computer Science
@@ -45,7 +43,6 @@ Master of Science in Engineering, Computer Science
 Northern Arizona University, Flagstaff, AZ
 
 Programming and development of application architectures and web application behavior.
-
 
 Bachelor of Applied Science, Computer (Software) Engineering
 
@@ -59,6 +56,7 @@ Software development, architectural design, software algorithms, and project man
 
 **Merriam-Powell Center for Environmental Research**, Flagstaff, AZ
 Web Developer
+
 06/2010 – 08/2013
 - Developed previous NPS gallery site to display high-resolution images w/ Zoomify software
 - Image processing and slicing large images (50-600 MB)
@@ -68,6 +66,7 @@ Web Developer
 
 **Northern Arizona University**, Flagstaff, AZ
 Lab Assistant / Class Supervisor
+
 01/2009 – 05/2009 and 01/2010 - 05/2010 (spring terms)
 - Taught lab materials and class content for 30 students
 - Helped students understand programming fundamentals for C++ and Matlab
@@ -76,4 +75,5 @@ Lab Assistant / Class Supervisor
 **INTERESTS**
 
 Deep learning AST code analysis, malware detection, analysis, and design
+
 Nodejs web application security design, small-scale game development
