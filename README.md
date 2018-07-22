@@ -1,25 +1,40 @@
 Gregory Bloom
 ============
 
+**PROFILE**
+
+Senior web security analyst with nearly 5 years of experience in decoding, examining, and removing malware.  Currently researches and rebuilds security patches on major plugins and CMSs to backport security fixes.  Develops tools to further automate detection and cleaning, analyzes and documents processes to improve reliability and training, and researches state of the art methods to detect malware.
+Develops JS games for fun.
+
 **SKILLS**
 
-JavaScript (Node, Express, MEAN Stack, jQuery, JSON, Ajax), HTML5, PHP, Bash/Unix, Python, MySQL, Git, CSS, Mongo, Matlab
-
-Experience with project organization, proposals, and documentation.  Believes in strong project direction and driving inter-team communication.
+Malware identification and analysis (detection signatures, detection/clean regex, decoding, code analysis) 
+JavaScript (Node, Express, MEAN Stack, jQuery, JSON, Ajax)
+PHP (WordPress, WooCommerce), Python, Bash/Linux, MySQL, Git, Bookstack, Java, CSS, HTML5
+Experience with project organization, proposals, and documentation.  Organizes intra-team communication
 
 **RECENT EXPERIENCE**
 
 **SiteLock**, Scottsdale, AZ
 11/2013 - Present
-Web Security Research Analyst
+Senior Web Security Research Analyst
 - Investigated compromised web sites, removed infections, remediated PHP XSS and SQLi flaws
-- De-obfuscated PHP and JavaScript code for behavior analysis
-- Configured CDN/WAF for customers through DNS configuration, performed application troubleshooting
-- Developed sophisticated tool in Bash for enhanced analysis and summary reporting
-- (tool became part of standard protocol for entire support division)
-- Documented and defined the analysis and mitigation process for team
+- Created detection methods for malware identification and removal
+- De-obfuscated and researched PHP and JavaScript code for behavior analysis (both malicious and legitimate code)
+- Researched, assessed, and redesigned security patches on major CMSs and plugins for backporting and distribution to customers
+- Lead internal incident responses (from detection/clean failures) to minimize customer impact, inform upper management, and conduct post-mortem analysis.
+-	(wrote the official Incident Response Plan for internal failures relating to the team)
+- Developed sophisticated tool in Bash and Python for enhanced CMS analysis and summary reporting
+- 	(tool became part of standard protocol for entire support division for years)
 - [Authored](http://blog.sitelock.com/author/sitelockgreg/) web security articles for the SiteLock blog
+- Documented and defined the analysis and mitigation process for both the malware analysis and vulnerability analysis teams
+- Configured CDN/WAF for customers through DNS configuration, performed application troubleshooting
 - Participated in sales and support calls as technical SME
+
+**PROJECTS**
+
+CMS Analysis Suite - 
+
 
 **EDUCATION**
 
@@ -52,4 +67,5 @@ Lab Assistant / Class Supervisor
 
 **INTERESTS**
 
-Web application penetration, web application design, game development
+Deep learning AST code analysis, malware detection, analysis, and design
+Nodejs web application security design, small-scale game development
