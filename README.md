@@ -21,9 +21,11 @@ PHP (WordPress, WooCommerce), Python, Bash/Linux, MySQL, Git, Bookstack, Java, C
 
 **RECENT EXPERIENCE**
 
-**SiteLock**, Scottsdale, AZ
-11/2013 - Present
+**SiteLock**,
 Senior Web Security Research Analyst, Web Vulnerability Research Analyst
+
+11/2013 - Present
+
 - Investigated compromised web sites, removed infections, remediated PHP XSS and SQLi flaws
 - Created detection methods for malware detection, identification, and removal
 - De-obfuscated and researched PHP and JavaScript code for behavior analysis (both malicious and legitimate code)
@@ -54,7 +56,7 @@ Software development, architectural design, software algorithms, and project man
 
 **PAST EXPERIENCE**
 
-**Merriam-Powell Center for Environmental Research**, Flagstaff, AZ
+**Merriam-Powell Center for Environmental Research**,
 Web Developer
 
 06/2010 – 08/2013
@@ -64,7 +66,7 @@ Web Developer
 - Designed Python and Bash scripts for processing tools for MerPow employees
 - Designed templates to fit NAU standards, fixed poor CSS/HTML for easier maintenance
 
-**Northern Arizona University**, Flagstaff, AZ
+**Northern Arizona University**,
 Lab Assistant / Class Supervisor
 
 01/2009 – 05/2009 and 01/2010 - 05/2010 (spring terms)
