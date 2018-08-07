@@ -10,17 +10,6 @@ Develops JS games for fun.
 **SKILLS**
 
 SANS GIAC GWAPT Certified - [https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url](https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="422db4c3-f953-473e-8905-fc60feb064cb"></div>
-<script type="text/javascript">
-  (function() {
-    var s = document.createElement('script');
-    s.type = 'text/javascript';
-    s.async = true;
-    s.src = '//cdn.youracclaim.com/assets/utilities/embed.js';
-    var o = document.getElementsByTagName('script')[0];
-    o.parentNode.insertBefore(s, o);
-    })();
-</script>
 
 Malware identification and analysis (detection signatures, detection/clean regex, decoding, code analysis)
 
