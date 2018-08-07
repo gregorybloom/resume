@@ -1,6 +1,8 @@
 Gregory Bloom
 ============
 
+**URL** : &nbsp; [gwbloom.net](http://gwbloom.net) - or - [https://github.com/gregorybloom/resume](https://github.com/gregorybloom/resume) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CONTACT** : &nbsp; _See application_
+
 **PROFILE**
 
 Senior web security analyst with nearly 5 years of experience in decoding, examining, and removing malware.  Currently researches and rebuilds security patches on major plugins and CMSs to backport security fixes.  Develops tools to further automate detection and cleaning, analyzes and documents processes to improve reliability and training, and researches state of the art methods to detect malware.
