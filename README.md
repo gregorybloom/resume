@@ -9,7 +9,9 @@ Develops JS games for fun.
 
 **SKILLS**
 
-Malware identification and analysis (detection signatures, detection/clean regex, decoding, code analysis) 
+SANS GIAC GWAPT Certified - [https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url](https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url)
+
+Malware identification and analysis (detection signatures, detection/clean regex, decoding, code analysis)
 
 Vulnerability research, mitigation, and exploitation
 
