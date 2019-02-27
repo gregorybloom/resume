@@ -28,7 +28,7 @@ PHP (WordPress, WooCommerce), Python, Bash/Linux, MySQL, Git, Bookstack, Java, C
 **SiteLock** :
 Senior Web Security Research Analyst, Web Vulnerability Research Analyst
 
-11/2013 - Present
+11/2013 - 08/2018
 
 - Investigated compromised web sites, removed infections, remediated PHP XSS and SQLi flaws
 - Created detection methods for malware detection, identification, and removal
@@ -41,24 +41,6 @@ Senior Web Security Research Analyst, Web Vulnerability Research Analyst
 - 	(tool became part of standard protocol for entire support division for years)
 - [Authored](http://blog.sitelock.com/author/sitelockgreg/) web security articles for the SiteLock blog
 - Participated in sales and support calls as technical SME
-
-**EDUCATION**
-
-Master of Science in Engineering, Computer Science
-
-Northern Arizona University, Flagstaff, AZ
-
-Programming and development of application architectures and web application behavior.
-
-Bachelor of Applied Science, Computer (Software) Engineering
-
-Kingston, Ontario, Canada
-
-Computer (Software) Engineering
-
-Software development, architectural design, software algorithms, and project management.  Included embedded engineering and performance metrics.
-
-**PAST EXPERIENCE**
 
 **Merriam-Powell Center for Environmental Research** :
 Web Developer
@@ -77,6 +59,22 @@ Lab Assistant / Class Supervisor
 - Taught lab materials and class content for 30 students
 - Helped students understand programming fundamentals for C++ and Matlab
 - Graded lab results and provided feedback for each student
+
+**EDUCATION**
+
+Master of Science in Engineering, Computer Science
+
+Northern Arizona University, Flagstaff, AZ
+
+Programming and development of application architectures and web application behavior.
+
+Bachelor of Applied Science, Computer (Software) Engineering
+
+Kingston, Ontario, Canada
+
+Computer (Software) Engineering
+
+Software development, architectural design, software algorithms, and project management.  Included embedded engineering and performance metrics.
 
 **INTERESTS**
 
