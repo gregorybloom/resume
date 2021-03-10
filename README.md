@@ -12,6 +12,7 @@ Develops JS games for fun.
 **SKILLS**
 
 GIAC GWAPT Certified - [https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url](https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url)
+CompTia PenTest+ Certified - [https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url](https://www.youracclaim.com/badges/cdd55027-17bf-4474-9bbd-ae0b2bf83a88/public_url)
 
 Malware identification and analysis (detection signatures, detection/clean regex, decoding, code analysis)
 
@@ -24,6 +25,20 @@ JavaScript (Node, Express, MEAN Stack, jQuery, JSON, Ajax)
 PHP (WordPress, WooCommerce), Python, Bash/Linux, MySQL, Git, Bookstack, Java, CSS, HTML5
 
 **RECENT EXPERIENCE**
+
+**Defiant (WordFence)** :
+Threat Analyst
+
+09/2018 - present
+
+- Created detection methods for malware detection, identification, and removal
+- De-obfuscated and researched PHP and JavaScript code for behavior analysis (both malicious and legitimate code)
+- Established malware analysis and signature authorship processes for both the malware analysis teams
+- Performed quality assurance and second-party verification checks for malware signatures, WAF rules, sample analysis and classification
+- Developed Bash and Python tools for malware analysis and reporting
+- Established early machine learning technology for malware detection:
+- [Authored](https://www.wordfence.com/blog/2021/02/machine-learning-gives-wordfence-an-advantage/) Introductory blogpost related to machine learning efforts
+- https://github.com/wfgreg/
 
 **SiteLock** :
 Senior Web Security Research Analyst, Web Vulnerability Research Analyst
@@ -51,14 +66,6 @@ Web Developer
 - Updated and maintained MerPow's affiliate websites
 - Designed Python and Bash scripts for processing tools for MerPow employees
 - Designed templates to fit NAU standards, fixed poor CSS/HTML for easier maintenance
-
-**Northern Arizona University** :
-Lab Assistant / Class Supervisor
-
-01/2009 – 05/2009 and 01/2010 - 05/2010 (spring terms)
-- Taught lab materials and class content for 30 students
-- Helped students understand programming fundamentals for C++ and Matlab
-- Graded lab results and provided feedback for each student
 
 **EDUCATION**
 
