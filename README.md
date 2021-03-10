@@ -18,6 +18,8 @@ Malware identification and analysis (detection signatures, detection/clean regex
 
 Vulnerability research, mitigation, and exploitation
 
+Basic machine learning adoption, integration, problem solving, and analysis
+
 Team onboarding, incident handling, process development for new teams and their requirements
 
 JavaScript (Node, Express, MEAN Stack, jQuery, JSON, Ajax)
