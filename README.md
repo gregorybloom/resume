@@ -34,17 +34,12 @@ Security Analyst, Threat Analyst
 
 09/2018 - Present
 
-Led major pushes in detection recall improvements, signature optimization, machine learning adoption, new technology adoptions
-
-Researched and prototyped Machine Learning methodology for malware identification, coordinating with Development
-
-Established the signature development workflow, training, and data sample processes for the Threat Analysis team
-
-Developed sophisticated tooling in Bash, PHP, and Python for sample analysis, sample analysis, de-obfuscation, and signature authorship workflows
-
-De-obfuscated web source code such as PHP and JavaScript, determined threat behaviors of suspicious code, wrote and optimized signature detection
-
-Created comprehensive documentation - Bookstack workflows and documentation, help information for all team-developed internal tools, video tutorials for complex workflow tools
+- Led major pushes in detection recall improvements, signature optimization, machine learning adoption, new technology adoptions
+- Researched and prototyped Machine Learning methodology for malware identification, coordinating with Development
+- Established the signature development workflow, training, and data sample processes for the Threat Analysis team
+- Developed sophisticated tooling in Bash, PHP, and Python for sample analysis, sample analysis, de-obfuscation, and signature authorship workflows
+- De-obfuscated web source code such as PHP and JavaScript, determined threat behaviors of suspicious code, wrote and optimized signature detection
+- Created comprehensive documentation - Bookstack workflows and documentation, help information for all team-developed internal tools, video tutorials for complex workflow tools
 
 **SiteLock** :
 Senior Web Security Research Analyst, Web Vulnerability Research Analyst
