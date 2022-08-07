@@ -80,4 +80,4 @@ Convolutional deep learning code analysis
 
 Malware detection and analysis
 
-Workflow process, documentation, prioritization improvements
+Workflow process, automation, documentation, prioritization improvements
