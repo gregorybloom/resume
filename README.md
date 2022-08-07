@@ -57,7 +57,7 @@ Senior Web Security Research Analyst, Web Vulnerability Research Analyst
 - Established the mitigation, process, training, and incident handling process for both the malware analysis and vulnerability analysis teams
 - Developed sophisticated tool in Bash and Python for enhanced CMS analysis and summary reporting
 - 	(tool became part of standard protocol for entire support division for years)
-- [Authored](http://blog.sitelock.com/author/sitelockgreg/) web security articles for the SiteLock blog
+- Authored web security articles for the SiteLock blog
 - Participated in sales and support calls as technical SME
 
 **EDUCATION**
