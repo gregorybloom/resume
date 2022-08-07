@@ -12,7 +12,9 @@ Develops Unity/JS games for fun.
 **SKILLS**
 
 GIAC GWAPT Certified - [https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url](https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url)
+
 CompTia PenTest+ Certified - [https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url](https://www.youracclaim.com/badges/cdd55027-17bf-4474-9bbd-ae0b2bf83a88/public_url)
+
 AWS Certified Data Analytics - Specialty - [https://www.credly.com/badges/53cf2b08-c981-4001-ab1d-66fe5a731a0c/public_url](https://www.credly.com/badges/53cf2b08-c981-4001-ab1d-66fe5a731a0c/public_url)
 
 Malware identification and analysis (detection signatures, detection/clean regexes, decoding, code analysis)
@@ -58,34 +60,24 @@ Senior Web Security Research Analyst, Web Vulnerability Research Analyst
 - [Authored](http://blog.sitelock.com/author/sitelockgreg/) web security articles for the SiteLock blog
 - Participated in sales and support calls as technical SME
 
-**Merriam-Powell Center for Environmental Research** :
-Web Developer
-
-06/2010 – 08/2013
-- Developed previous NPS gallery site to display high-resolution images w/ Zoomify software
-- Image processing and slicing large images (50-600 MB)
-- Updated and maintained MerPow's affiliate websites
-- Designed Python and Bash scripts for processing tools for MerPow employees
-- Designed templates to fit NAU standards, fixed poor CSS/HTML for easier maintenance
-
 **EDUCATION**
 
-Master of Science in Engineering, Computer Science
+**Master of Science in Engineering, Computer Science**
 
 Northern Arizona University, Flagstaff, AZ
 
 Programming and development of application architectures and web application behavior.
 
-Bachelor of Applied Science, Computer (Software) Engineering
+**Bachelor of Applied Science, Computer (Software) Engineering**
 
 Kingston, Ontario, Canada
-
-Computer (Software) Engineering
 
 Software development, architectural design, software algorithms, and project management.  Included embedded engineering and performance metrics.
 
 **INTERESTS**
 
-Deep learning AST code analysis, malware detection, analysis, and design
+Convolutional deep learning code analysis
 
-Nodejs web application security design, small-scale game development
+Malware detection and analysis
+
+Workflow process, documentation, prioritization improvements
