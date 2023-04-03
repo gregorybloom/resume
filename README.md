@@ -5,11 +5,9 @@ Gregory Bloom
 
 **PROFILE**
 
-Threat and web security analyst with nearly 10 years of experience in decoding, examining, and removing malware.  Experienced in team training and building for malware and vulnerability analysis.  Occasionally researches machine learning methodologies and convolutional neural networks as a solution to these challenges.  Develops tools to further automate malware detection, develops thorough documentation and training videos to improve training and internal tool usability, and researches state of the art methods to detect malware.
+Threat analyst with nearly 10 years of experience in decoding and examining malware.  Always dedicated time to training and building teams for malware and vulnerability analysis, building documentation and automation.  Occasionally researches machine learning methodologies and convolutional neural networks as a solution to these challenges.
 
 Develops Unity/JS games for fun.
-
-**SKILLS**
 
 GIAC GWAPT Certified - [https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url](https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url)
 
@@ -17,17 +15,20 @@ CompTia PenTest+ Certified - [https://www.youracclaim.com/badges/422db4c3-f953-4
 
 AWS Certified Data Analytics - Specialty - [https://www.credly.com/badges/53cf2b08-c981-4001-ab1d-66fe5a731a0c/public_url](https://www.credly.com/badges/53cf2b08-c981-4001-ab1d-66fe5a731a0c/public_url)
 
+**SKILLS**
+
 Malware identification and analysis (detection signatures, detection/clean regexes, decoding, code analysis)
 
 Team onboarding, incident handling, process development for new teams and their requirements
 
-Convolutional Machine Learning fundamentals, data processing for machine learning
+Documentation, automation, and improving team effectiveness through prioritization and training
 
 Vulnerability analysis, research, mitigation, and exploitation
 
-Python, Bash/Linux, PHP (WordPress, WooCommerce), C#, MySQL, Bookstack, AWS Cloud Environment, Git, Java, CSS3, HTML5
+Convolutional Machine Learning fundamentals, data processing for machine learning
 
-JavaScript (Node, Express, MEAN Stack, jQuery, JSON, Ajax)
+Python, Bookstack, Git, Bash/Linux, C#, PHP (WordPress), MySQL, CSS3, HTML5, Javascript, AWS Cloud Environment, Java
+
 
 **RECENT EXPERIENCE**
 
@@ -36,13 +37,14 @@ Security Analyst, Threat Analyst
 
 09/2018 - 04/2023
 
- - Led major pushes for improvement: detection recall improvement, signature optimization, team strategy priority, training initiatives, machine learning adoption
+ - Led major pushes for improvement: detection recall, signature optimization, team strategy and priority, training initiatives, machine learning adoption
  - Created a major training initiative and trained team members on malware detection and malware research
  - Researched and prototyped Machine Learning methodology for malware identification, coordinating with Development teams
  - Established the signature development workflow, training, and data sample processes for the Threat Analysis team
  - Developed rapid tooling in Bash, PHP, and Python for sample analysis, malware de-obfuscation, and signature authorship workflows
  - De-obfuscated web source code such as PHP and JavaScript, determined threat behaviors of suspicious code, wrote and optimized signature detection
  - Created and maintained comprehensive documentation - Bookstack docs, Diagrams.net workflows, training videos and sessions for team members, help info for all team-developed internal tools, video tutorials for complex workflow tools
+
 
 **SiteLock** :
 Senior Web Security Research Analyst, Web Vulnerability Research Analyst
