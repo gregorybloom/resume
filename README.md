@@ -17,6 +17,8 @@ CompTia PenTest+ Certified - [https://www.youracclaim.com/badges/422db4c3-f953-4
 
 AWS Certified Data Analytics - Specialty - [https://www.credly.com/badges/53cf2b08-c981-4001-ab1d-66fe5a731a0c/public_url](https://www.credly.com/badges/53cf2b08-c981-4001-ab1d-66fe5a731a0c/public_url)
 
+Machine Learning - Online Coursera Stanford Cert - [https://coursera.org/share/13854515ee24cca60f5701c96d7baea0](https://coursera.org/share/13854515ee24cca60f5701c96d7baea0)
+
 Malware identification and analysis (detection signatures, detection/clean regexes, decoding, code analysis)
 
 Team onboarding, incident handling, process development for new teams and their requirements
