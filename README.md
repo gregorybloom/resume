@@ -5,11 +5,9 @@ Gregory Bloom
 
 **PROFILE**
 
-Threat and web security analyst with nearly 10 years of experience in decoding, examining, and removing malware.  Occasionally researching machine learning methodologies and convolutional neural networks.  Develops tools to further automate malware detection, develops thorough documentation to improve training and internal tool usability, and researches state of the art methods to detect malware
+Threat analyst with nearly 10 years of experience in decoding and examining malware.  Always dedicated time to training and building teams for malware and vulnerability analysis, building documentation and automation.  Occasionally researches machine learning methodologies and convolutional neural networks as a solution to these challenges.
 
 Develops Unity/JS games for fun.
-
-**SKILLS**
 
 GIAC GWAPT Certified - [https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url](https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url)
 
@@ -19,31 +17,36 @@ AWS Certified Data Analytics - Specialty - [https://www.credly.com/badges/53cf2b
 
 Machine Learning - Online Coursera Stanford Cert - [https://coursera.org/share/13854515ee24cca60f5701c96d7baea0](https://coursera.org/share/13854515ee24cca60f5701c96d7baea0)
 
+**SKILLS**
+
 Malware identification and analysis (detection signatures, detection/clean regexes, decoding, code analysis)
 
 Team onboarding, incident handling, process development for new teams and their requirements
 
+Documentation, automation, and improving team effectiveness through prioritization and training
+
+Vulnerability analysis, research, mitigation, and exploitation
+
 Convolutional Machine Learning fundamentals, data processing for machine learning
 
-Vulnerability research, mitigation, and exploitation
+Python, Bookstack, Git, Bash/Linux, C#, PHP (WordPress), MySQL, CSS3, HTML5, Javascript, AWS Cloud Environment, Java
 
-Python, Bash/Linux, PHP (WordPress, WooCommerce), C#, MySQL, Bookstack, AWS Cloud  Environment, Git, Java, CSS3, HTML5
-
-JavaScript (Node, Express, MEAN Stack, jQuery, JSON, Ajax)
 
 **RECENT EXPERIENCE**
 
 **Wordfence / Defiant Inc** :
 Security Analyst, Threat Analyst
 
-09/2018 - Present
+09/2018 - 04/2023
 
-- Led major pushes in detection recall improvements, signature optimization, machine learning adoption, new technology adoptions
-- Researched and prototyped Machine Learning methodology for malware identification, coordinating with Development
-- Established the signature development workflow, training, and data sample processes for the Threat Analysis team
-- Developed sophisticated tooling in Bash, PHP, and Python for sample analysis, sample analysis, de-obfuscation, and signature authorship workflows
-- De-obfuscated web source code such as PHP and JavaScript, determined threat behaviors of suspicious code, wrote and optimized signature detection
-- Created comprehensive documentation - Bookstack workflows and documentation, help information for all team-developed internal tools, video tutorials for complex workflow tools
+ - Led major pushes for improvement: detection recall, signature optimization, team strategy and priority, training initiatives, machine learning adoption
+ - Created a major training initiative and trained team members on malware detection and malware research
+ - Researched and prototyped Machine Learning methodology for malware identification, coordinating with Development teams
+ - Established the signature development workflow, training, and data sample processes for the Threat Analysis team
+ - Developed rapid tooling in Bash, PHP, and Python for sample analysis, malware de-obfuscation, and signature authorship workflows
+ - De-obfuscated web source code such as PHP and JavaScript, determined threat behaviors of suspicious code, wrote and optimized signature detection
+ - Created and maintained comprehensive documentation - Bookstack docs, Diagrams.net workflows, training videos and sessions for team members, help info for all team-developed internal tools, video tutorials for complex workflow tools
+
 
 **SiteLock** :
 Senior Web Security Research Analyst, Web Vulnerability Research Analyst
