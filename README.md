@@ -3,11 +3,19 @@ Gregory Bloom
 
 **URL** : &nbsp; [gwbloom.net](http://gwbloom.net) - or - [https://github.com/gregorybloom/resume](https://github.com/gregorybloom/resume) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CONTACT** : &nbsp; _See application_
 
-**PROFILE**
+**ACCOMPLISHMENTS / PROJECTS**
 
-Threat analyst with nearly 10 years of experience in decoding and examining malware.  Always dedicated time to training and building teams for malware and vulnerability analysis, building documentation and automation.  Occasionally researches machine learning methodologies and convolutional neural networks as a solution to these challenges.
+ - Led major drives for improvement: detection recall, signature optimization, team strategy and priority, training initiatives, documentation, script writing, prototyping the company's first neural network classification attempts
+ - Wrote a thousand-plus detection signatures for hundreds of thousands of web malware files
+   - Served the entire Endurance International Group space, then for the world's largest WordPress security plugin
+   - Lead, trained, and documented the processes for teams that would continue this work
+   - These signatures and their style may still be the body of detection for PHP, JS malware and webspam
+ - Assembled and trained multiple teams for malware identification, signature authorship, and vulnerability patching
+ - Prototyped a convolutional neural network classifier for malware analysis
+   - Renders source code into AST, employs regression training for node weighting
+ - Wrote JavaScript/C# videogames for fun
 
-Develops Unity/JS games for fun.
+**CERTIFICATIONS**
 
 GIAC GWAPT Certified - [https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url](https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url)
 
