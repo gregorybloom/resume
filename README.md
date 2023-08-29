@@ -5,15 +5,20 @@ Gregory Bloom
 
 **ACCOMPLISHMENTS / PROJECTS**
 
- - Led major drives for improvement: detection recall, signature optimization, team strategy and priority, training initiatives, documentation, script writing, prototyping the company's first neural network classification attempts
  - Wrote a thousand-plus detection signatures for hundreds of thousands of web malware files
    - Served the entire Endurance International Group space, then for the world's largest WordPress security plugin
    - Lead, trained, and documented the processes for teams that would continue this work
-   - These signatures and their style may still be the body of detection for PHP, JS malware and webspam
- - Assembled and trained multiple teams for malware identification, signature authorship, and vulnerability patching
+   - These signatures and their style may still be the body of detection for PHP, JS malware, bash shell, and webspam
  - Prototyped a convolutional neural network classifier for malware analysis
-   - Renders source code into AST, employs regression training for node weighting
- - Wrote JavaScript/C# videogames for fun
+   - Uses alternative source code analysis approach instead of raw binary data, employs regression training for node weighting
+ - Assembled and trained multiple teams for malware identification, signature authorship, and vulnerability patching
+ - Led major drives for improvement: 
+   - lead team strategy and priority
+   - conducted training initiatives
+   - maintained process and technical documentation
+   - internal tool script writing
+   - prototyping the company's first neural network classification attempts
+ - Wrote JavaScript/C# video games for fun
 
 **CERTIFICATIONS**
 
@@ -29,7 +34,7 @@ Machine Learning - Online Coursera Stanford Cert - [https://coursera.org/share/1
 
 Malware identification and analysis (detection signatures, detection/clean regexes, decoding, code analysis)
 
-Team onboarding, incident handling, process development for new teams and their requirements
+Team training, onboarding, incident handling, process development for new teams and their requirements
 
 Documentation, automation, and improving team effectiveness through prioritization and training
 
@@ -88,6 +93,8 @@ Kingston, Ontario, Canada
 Software development, architectural design, software algorithms, and project management.  Included embedded engineering and performance metrics.
 
 **INTERESTS**
+
+Programming and secure application development
 
 Convolutional deep learning code analysis
 
