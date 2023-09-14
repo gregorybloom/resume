@@ -5,19 +5,19 @@ Gregory Bloom
 
 **ACCOMPLISHMENTS / PROJECTS**
 
- - Wrote thousand(s) of detection signatures for hundreds of thousands of web malware files
-   - Served the entire Endurance International Group space, then the world's largest WordPress security plugin
+ - Wrote a thousand-plus detection signatures for hundreds of thousands of web malware files
+   - Served the entire Endurance International Group space, then for the world's largest WordPress security plugin
    - Lead, trained, and documented the processes for teams that would continue this work
    - These signatures and their style may still be the body of detection for PHP, JS malware, bash shell, and webspam
  - Prototyped a convolutional neural network classifier for malware analysis
    - Uses alternative source code analysis approach instead of raw binary data, employs regression training for node weighting
+ - Assembled and trained multiple teams for malware identification, signature authorship, and vulnerability patching
  - Led major drives for improvement: 
    - lead team strategy and priority
    - conducted training initiatives
    - maintained process and technical documentation
    - internal tool script writing
    - prototyping the company's first neural network classification attempts
- - Assembled and trained multiple teams for malware identification, signature authorship, and vulnerability patching
  - Wrote JavaScript/C# video games for fun
 
 **CERTIFICATIONS**
@@ -30,8 +30,6 @@ AWS Certified Data Analytics - Specialty - [https://www.credly.com/badges/53cf2b
 
 Machine Learning - Online Coursera Stanford Cert - [https://coursera.org/share/13854515ee24cca60f5701c96d7baea0](https://coursera.org/share/13854515ee24cca60f5701c96d7baea0)
 
-Cyberfire Malware Forensics Training
-
 **SKILLS**
 
 Malware identification and analysis (detection signatures, detection/clean regexes, decoding, code analysis)
@@ -43,8 +41,6 @@ Documentation, automation, and improving team effectiveness through prioritizati
 Vulnerability analysis, research, mitigation, and exploitation
 
 Convolutional Machine Learning fundamentals, data processing for machine learning
-
-Burp Suite, XDebug, PyCharm, Visual Studio, Kali Linux, PHPStorm
 
 Python, Bookstack, Git, Bash/Linux, C#, PHP (WordPress), MySQL, CSS3, HTML5, Javascript, AWS Cloud Environment, Java
 
@@ -70,7 +66,7 @@ Senior Web Security Research Analyst, Web Vulnerability Research Analyst
 
 11/2013 - 08/2018
 
-- Investigated compromised websites, removed infections, remediated PHP XSS and SQLi flaws
+- Investigated compromised web sites, removed infections, remediated PHP XSS and SQLi flaws
 - Created detection methods for malware detection, identification, and removal
 - De-obfuscated and researched PHP and JavaScript code for behavior analysis (both malicious and legitimate code)
 - Researched, assessed, and redesigned security patches on major CMSs and plugins for backporting and distribution to customers
