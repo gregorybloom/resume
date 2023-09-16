@@ -21,6 +21,8 @@ Gregory Bloom
 
 **Team leadership:** Team founding, training, onboarding, incident handling, process development for new teams and their requirements
 
+**Communication:** Provides thoughtful, level-headed insight and analysis, both written and verbal.  Communicates amicably and clearly with customers, co-workers, stakeholders
+
 **Process optimization:** Documentation, automation, and improving team effectiveness through prioritization and training
 
 **Machine Learning:** Convolutional Machine Learning fundamentals, Python pipeline implementation, data processing and transformation for machine learning input
