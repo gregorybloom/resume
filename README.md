@@ -52,6 +52,13 @@ Machine Learning - Online Coursera Stanford Cert - [https://coursera.org/share/1
    - lead team strategy and priority, conducted training initiatives
    - wrote numerous internal scripts and solutions, documenting everything
    - prototyped the company's first neural network classification system
+ - Wrote a JavaScript automatic synchronization framework for software dev
+   - Detected changes to registered variables and initiated synchronization
+   - used JSON schema to define classes, registered variables, merging protocols
+   - Used function generators to bind variables in inheriting classes for function-driven merging behavior
+     - Variables, classes, and functions all defined by developer leveraging framework - none of the properties existed until use
+   - Allowed asynchronous changes and merging of data on reconnection
+     - Designed for decentralized tracking/merging with no core repo
  - Wrote JavaScript/C# video games for fun
    - Found a flaw in Minecraft Java Edition 1.17.1 while [doing a mod tutorial](https://github.com/gregorybloom/FDZTutorialMod)
 
