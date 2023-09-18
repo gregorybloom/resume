@@ -9,7 +9,7 @@ I am a firm believer in leading by example and showing enthusiasm in the career 
 
 **SKILLS**
 
-**Security:** Burp Suite, XDebug, Kali Linux, WPScan, nmap, code vulnerability assessment, static/dynamic code analysis, proprietary file scanners, WAF products, YARA, ClamAV
+**Security:** Burp Suite, XDebug, Kali Linux, WPScan, nmap, code vulnerability assessment, static/dynamic code analysis, proprietary file scanners, WAF products, YARA, ClamAV, Veracode
 
 **Full-Stack Development:** JavaScript, PHP, Bash, Python, Git, MySQL, jQuery, electron, JSON, WordPress Plugin Code, Software Troubleshooting, HTML5, CSS3, REST, Ajax, AWS Cloud Environment, Node.js, MEAN stack and LAMP stack, PHPStorm, relational databases
 
