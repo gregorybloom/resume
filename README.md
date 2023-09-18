@@ -64,8 +64,8 @@ Machine Learning - Online Coursera Stanford Cert - [https://coursera.org/share/1
    - initiated, designed, and conducted team training initiatives
    - wrote numerous internal scripts and solutions, documenting everything
  - Wrote a JavaScript automatic synchronization framework for software dev
-   - Detected changes to registered variables and initiated synchronization
-   - used JSON schema to define classes, registered variables, merging protocols
+   - Detected changes to registered variables with Underscore.js and Backbone.js
+   - used JSON schema to define: classes, registered variables, merging protocols
    - Used function generators to attach triggers for function-driven merging behavior
      - Variables, classes, and functions all defined by developer leveraging framework - none of the properties existed until use
    - Allowed asynchronous changes and merging of data on reconnection
