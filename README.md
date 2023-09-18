@@ -36,7 +36,7 @@ I am a firm believer in leading by example and showing enthusiasm in the career 
 
 **CERTIFICATIONS**
 
-Master's of Computer Science (NAU, AZ)
+Master's in Computer Science (NAU, AZ)
 
 Bachelor's in Computer Engineering (Queen's University, Canada)
 
