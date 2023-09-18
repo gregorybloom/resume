@@ -3,33 +3,42 @@ Gregory Bloom
 
 **URL** : &nbsp; [gwbloom.net](http://gwbloom.net) - or - [https://github.com/gregorybloom/resume](https://github.com/gregorybloom/resume) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CONTACT** : &nbsp; _See application_
 
+## Threat Analyst, Application Security Analyst, Full-Stack Developer, Junior Software Developer
+
+I am a firm believer in leading by example and showing enthusiasm in the career development of fellow employees - helping them work hard, achieve results, and build capability.
+
 **SKILLS**
 
 **Security:** Burp Suite, XDebug, Kali Linux, WPScan, nmap, code vulnerability assessment, static/dynamic code analysis, proprietary file scanners, WAF products
 
-**Development:** JavaScript, PHP, Bash, Python, Git, MySQL, jQuery, C#, WordPress, Pycharm, Visual Studio, Java, HTML5, CSS3, C++, Ajax, Perl, AWS Cloud Environment
+**Full-Stack Development:** JavaScript, PHP, Bash, Python, Git, MySQL, jQuery, electron, JSON, WordPress Plugin Code, Software Troubleshooting, HTML5, CSS3, REST, Ajax, AWS Cloud Environment, Node.js, MEAN stack and LAMP stack, PHPStorm, relational databases
 
-**Management:** A firm believer in leading by example and showing enthusiasm in the career development of fellow employees - helping them word hard, achieve results, and build capability
+**Software Development:** C#, PyCharm, Java, C++, Perl, Data Structures, Design Patterns, Visual Studio, IntelliJ IDEA, APIs, SDKs, Apache, Unix/Linux, Android Development Environment, OOP
+
 
 **PROCESS AND ROLE-DEFINED SKILLS**
 
-**Application Security / Vulnerability Analysis:** Vulnerability analysis, research, mitigation, and exploitation.  White box testing, static and dynamic code analysis for security review
+**Application Security / Vulnerability Analysis:** Vulnerability analysis, research, mitigation, and exploitation. White box testing, static and dynamic code analysis for security review
 
-**Development:** Numerous JavaScript projects, Python/Bash tools, C# games, PHP-driven site tools.  Code analysis, vulnerability assessments, web application security patching
+**Code Development:** Numerous JavaScript projects, Python/Bash tools, C# games, PHP-driven site tools.  Code analysis, vulnerability assessments, web application security patching
 
 **Threat modeling:** Client vulnerability and security analysis, defining probable threats, identifying prevention methodologies, infection and vulnerability mitigation, proactive threat capture and research
 
-**Team leadership:** Team founding, training, onboarding, incident handling, process development for new teams and their requirements
-
 **Communication:** Provides thoughtful, level-headed insight and analysis, both written and verbal.  Communicates amicably and clearly with customers, co-workers, stakeholders
 
-**Process optimization:** Documentation, automation, and improving team effectiveness through prioritization and training
+**Team leadership:** Team founding, training, onboarding, incident handling, process development for new teams and their requirements
+
+**Process optimization:** Documentation, automation, and improving team effectiveness through prioritization and training. Prepares workflows and triage priority charts for incident handling
 
 **Machine Learning:** Convolutional Machine Learning fundamentals, Python pipeline implementation, data processing and transformation for machine learning input
 
-**Malware reverse engineering:** Malware identification and analysis (detection signatures/regexes, decoding obfuscation, code analysis)
+**Malware Reverse Engineering:** Malware identification and analysis (detection signatures/regexes, decoding obfuscation, code analysis)
 
 **CERTIFICATIONS**
+
+Master's of Computer Science (NAU, AZ)
+
+Bachelor's in Computer Engineering (Queen's University, Canada)
 
 GIAC GWAPT Certified - [https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url](https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url)
 
@@ -51,18 +60,24 @@ Machine Learning - Online Coursera Stanford Cert - [https://coursera.org/share/1
  - Prototyped company's first convolutional ML classifier for malware analysis
    - Uses alternative source code analysis approach instead of raw binary data, employs regression training for node weighting
  - Led major drives for improvement:
-   - lead team strategy and priority, conducted training initiatives
+   - lead team strategy and priority
+   - initiated, designed, and conducted team training initiatives
    - wrote numerous internal scripts and solutions, documenting everything
-   - prototyped the company's first neural network classification system
  - Wrote a JavaScript automatic synchronization framework for software dev
    - Detected changes to registered variables and initiated synchronization
    - used JSON schema to define classes, registered variables, merging protocols
-   - Used function generators to bind variables in inheriting classes for function-driven merging behavior
+   - Used function generators to attach triggers for function-driven merging behavior
      - Variables, classes, and functions all defined by developer leveraging framework - none of the properties existed until use
    - Allowed asynchronous changes and merging of data on reconnection
      - Designed for decentralized tracking/merging with no core repo
  - Wrote JavaScript/C# video games for fun
-   - Found a flaw in Minecraft Java Edition 1.17.1 while [doing a mod tutorial](https://github.com/gregorybloom/FDZTutorialMod)
+   - Prototyped dozens of games over weekend contests in a rapid dev cycle
+     - Created electron wrappers for the games and tested them on Android
+ - Created the [Karma card game](https://boardgamegeek.com/boardgame/158268/karma) private web prototype - for stakeholders' demo purposes
+ - Found a flaw in Minecraft Java Edition 1.17.1 while [doing a mod tutorial](https://github.com/gregorybloom/FDZTutorialMod)
+ - Designed a data transformation system for Lowell Observatory for telescope alignment
+ - Created the original sample catalog website for Merriam-Powell for high-res image samples
+   - Images required back-end processing so 500+MB images could be viewed online
 
 
 
