@@ -5,22 +5,24 @@ Gregory Bloom
 
 ## Threat Analyst, Application Security Analyst, Full-Stack Developer, Junior Software Developer
 
-I am a firm believer in leading by example and showing enthusiasm in the career development of fellow employees - helping them work hard, achieve results, and build capability.
+An innovative and creative individual with a passion for technology and a commitment to staying up-to-date with industry trends and making the most of any opportunity.  I am a resourceful problem solver who is capable of quickly adapting to changing environments and technical challenges.  I am a firm believer in leading by example and showing enthusiasm in the career development of fellow employees - helping them work hard, achieve results, and build capability.
 
 **SKILLS**
 
 **Security:** Burp Suite, XDebug, Kali Linux, WPScan, nmap, code vulnerability assessment, static/dynamic code analysis, proprietary file scanners, WAF products, YARA, ClamAV, Veracode
 
-**Full-Stack Development:** JavaScript, PHP, Bash, Python, Git, MySQL, jQuery, electron, JSON, WordPress Plugin Code, Software Troubleshooting, HTML5, CSS3, REST, Ajax, AWS Cloud Environment, Node.js, MEAN stack and LAMP stack, PHPStorm, relational databases
+**Coding Languages:** JavaScript, PHP, Bash Scripting, Python, C#, Java, C++, Perl, HTML5/CSS3
 
-**Software Development:** C#, PyCharm, Java, C++, Perl, Data Structures, Design Patterns, Visual Studio, IntelliJ IDEA, APIs, SDKs, Apache, Unix/Linux, Android Development Environment, OOP
+**Full-Stack Development:** Git, jQuery, electron, JSON, WordPress Plugin code, REST, Ajax, AWS Cloud Environment, Node.js, MEAN stack, LAMP stack, PHPStorm, relational databases like MySQL
+
+**Software Development:** PyCharm, Data Structures, Design Patterns, Visual Studio, IntelliJ IDEA, APIs, SDKs, Apache, Unix/Linux, Android Development Environment, OOP
 
 
 **PROCESS AND ROLE-DEFINED SKILLS**
 
 **Application Security / Vulnerability Analysis:** Vulnerability analysis, research, mitigation, and exploitation. White box testing, static and dynamic code analysis for security review
 
-**Code Development:** Numerous JavaScript projects, Python/Bash tools, C# games, PHP-driven site tools.  Code analysis, vulnerability assessments, web application security patching
+**Code Development:** Numerous JavaScript projects, Python/Bash tools, C# games, PHP-driven site tools.  Code analysis, vulnerability assessments, web application security patching, software troubleshooting
 
 **Threat modeling:** Client vulnerability and security analysis, defining probable threats, identifying prevention methodologies, infection and vulnerability mitigation, proactive threat capture and research
 
