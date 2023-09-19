@@ -13,9 +13,9 @@ An innovative and creative individual with a passion for technology and a commit
 
 **Coding Languages:** JavaScript, PHP, Bash Scripting, Python, C#, Java, C++, Perl, HTML5/CSS3
 
-**Full-Stack Development:** Git, jQuery, electron, JSON, WordPress Plugin code, REST, Ajax, AWS Cloud Environment, Node.js, MEAN stack, LAMP stack, PHPStorm, relational databases like MySQL
+**Full-Stack Development:** Git, jQuery, JSON, WordPress Plugin code, REST, Ajax, AWS Cloud Environment, Node.js, MEAN stack, LAMP stack, PHPStorm, relational databases like MySQL
 
-**Software Development:** PyCharm, Data Structures, Design Patterns, Visual Studio, IntelliJ IDEA, APIs, SDKs, Apache, Unix/Linux, Android Development Environment, OOP
+**Software Development:** Electron JS, Android Development Environment, OOP, Data Structures, Design Patterns, APIs, SDKs, PyCharm, Visual Studio, IntelliJ IDEA, Apache, Unix/Linux
 
 
 **PROCESS AND ROLE-DEFINED SKILLS**
