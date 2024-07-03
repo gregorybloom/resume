@@ -5,42 +5,99 @@ Gregory Bloom
 
 ## Threat Analyst, Application Security Analyst, Full-Stack Developer, Junior Software Developer
 
-An innovative and creative individual with a passion for technology and a commitment to staying up-to-date with industry trends and making the most of any opportunity.  I am a resourceful problem solver who is capable of quickly adapting to changing environments and technical challenges.  I am a firm believer in leading by example and showing enthusiasm in the career development of fellow employees - helping them work hard, achieve results, and build capability.
+**SUMMARY**
+-
+- 10+ years of cybersecurity experience with focuses on web application security, endpoint threat detection, source code analysis (malware analysis, vulnerability testing)
+- Extensive experience in signature detection and code behavior analysis for malware and vulnerability analysis, threat analysis, incident handling in Agile teams
+- Lead team development: founding, training, onboarding, and leading multiple security teams at multiple companies.  Built excellence through example and providing excellent technical assistance in developing team skills
+- Communicates amicably and clearly using thoughtful, level-headed insight and analysis, both written and verbal.  Coordinates with a variety of audiences: customers, co-workers, stakeholders
+- Master's Degree in Computer Science.  Always learning new IT, programming, and security skills
+
+
+**RECENT EXPERIENCE**
+-
+**_Wordfence / Defiant Inc_** :
+Security Analyst, Threat Analyst
+
+09/2018 - 04/2023
+
+- Researched and prototyped company's first Machine Learning prototype for malware identification, coordinating with Development team for first build
+- Performed application security review of WordPress plugins as they updated: vulnerability analysis via code analysis and debugging tools, white box testing, researching and creating exploitation method and scripting, confirming software functionality after firewall rule implementation
+- Conducted vulnerability analysis and security assessments for customers
+    - Analysis included infection forensic analysis and remediation
+- Determined threat behaviors of obfuscated code (such as PHP and JS)
+- Established workflow, training, and data sample processes for the Threat Analysis team, including signature development, vulnerability triage, and ML
+- Led major pushes for improvement: detection recall, signature optimization, team strategy and priority, training initiatives, machine learning adoption
+- Created and performed major training initiatives, training team members on malware detection and malware research
+- Developed rapid tooling in Bash, PHP, and Python for machine learning, sample analysis, malware deobfuscation, and signature authorship workflows
+- Created and maintained comprehensive documentation - Bookstack docs, Diagrams.net workflows, training videos and sessions for team members, help info for all team-developed internal tools, video tutorials for complex workflow tools
+
+**_SiteLock_** :
+Senior Web Security Research Analyst, Web Vulnerability Research Analyst
+
+11/2013 - 08/2018
+
+- Researched, assessed, and redesigned security patches on major CMSs and plugins for backporting and distribution to customers
+- Performed static code analysis for security review using leading enterprise tools
+- Investigated compromised websites, removed infections, remediated PHP XSS and SQLi flaws
+- Deobfuscated and researched PHP and JavaScript code for behavior analysis (both malicious and legitimate code)
+- Lead internal incident responses (from detection/clean failures) to minimize customer impact, inform upper management, and conduct post-mortem analysis.
+    - Wrote the official Incident Response Plan for internal failures relating to the team
+- Assembled and lead the malware analysis and vulnerability analysis teams
+- Established the mitigation, process, training, and incident handling process for both the malware analysis and vulnerability analysis teams
+- Developed sophisticated tool in Bash and Python for enhanced CMS analysis and summary reporting
+    - Tool became part of standard protocol for entire support division for years
+- Authored web security articles for the SiteLock blog
+- Coordinated with customers over the phone and via email in order to resolve client issues and security incidents
+- Participated in sales and support calls as technical SME
 
 **SKILLS**
+-
+**Cybersecurity Frameworks**: MITRE ATT&CK, OWASP Web Security Testing
 
-**Security:** Burp Suite, XDebug, Kali Linux, WPScan, nmap, code vulnerability assessment, static/dynamic code analysis, proprietary file scanners, WAF products, YARA, ClamAV, Veracode
+**Monitoring and SIEM**: Google Chronicle, Splunk
 
-**Coding Languages:** JavaScript, PHP, Bash Scripting, Python, C#, Java, C++, Perl, HTML5/CSS3
+**Penetration Testing Tools**: Burp Suite, Kali Linux, WPScan, nmap, Metasploit, Wireshark, BeEF
 
-**Full-Stack Development:** Git, jQuery, JSON, WordPress Plugin code, REST, Ajax, AWS Cloud Environment, Node.js, MEAN stack, LAMP stack, PHPStorm, relational databases like MySQL
+**Malware Analysis & Detection**: Perl Regex, YARA, HyperScan, ClamAV, IDA Free, msitools, VirusTotal
 
-**Software Development:** Electron JS, Android Development Environment, OOP, Data Structures, Design Patterns, APIs, SDKs, PyCharm, Visual Studio, IntelliJ IDEA, Apache, Unix/Linux
+**Vulnerability Hunting**: Burp + XDebug, Veracode, direct code analysis and whitebox/debug level testing
 
+**Cloud Platforms**: AWS, Google, data intake and IAM-based management
 
-**PROCESS AND ROLE-DEFINED SKILLS**
+**Coding Languages**: JavaScript, PHP, Bash Scripting, Python, C#, Java, C++, Perl, HTML5/CSS3
 
-**Application Security / Vulnerability Analysis:** Vulnerability analysis, research, mitigation, and exploitation. White box testing, static and dynamic code analysis for security review
+**Full-Stack Development**: Git, jQuery, JSON, WordPress Plugin code, REST, Ajax, AWS Cloud Environment, Node.js, MEAN stack, LAMP stack, PHPStorm, relational databases like MySQL
 
-**Code Development:** Numerous JavaScript projects, Python/Bash tools, C# games, PHP-driven site tools.  Code analysis, vulnerability assessments, web application security patching, software troubleshooting
+**Software Development**: Electron JS, Android Development Environment, OOP, Data Structures, Design Patterns, APIs, SDKs, PyCharm, Visual Studio, IntelliJ IDEA, Apache, Unix/Linux
 
-**Threat modeling:** Client vulnerability and security analysis, defining probable threats, identifying prevention methodologies, infection and vulnerability mitigation, proactive threat capture and research
+**Machine Learning**: Convolutional Neural Network fundamentals, Anaconda (Conda), Tensorflow, docker, data processing and transformation for machine learning input
 
-**Communication:** Provides thoughtful, level-headed insight and analysis, both written and verbal.  Communicates amicably and clearly with customers, co-workers, stakeholders
+**Organization Processes**: Jira, Agile, process mapping tools (Visio, bookstack).
 
-**Team leadership:** Team founding, training, onboarding, incident handling, process development for new teams and their requirements
+PROCESS AND ROLE-DEFINED SKILLS
 
-**Process optimization:** Documentation, automation, and improving team effectiveness through prioritization and training. Prepares workflows and triage priority charts for incident handling
+**Application Security / Vulnerability Analysis**: Vulnerability analysis, research, mitigation, and exploitation. White box testing, static and dynamic code analysis for security review
 
-**Machine Learning:** Convolutional Machine Learning fundamentals, Python pipeline implementation, data processing and transformation for machine learning input
+**Code Development**: Numerous JavaScript projects, Python/Bash tools, C# games, PHP-driven site tools. Code analysis, vulnerability assessments, web application security patching, software troubleshooting
 
-**Malware Reverse Engineering:** Malware identification and analysis (detection signatures/regexes, decoding obfuscation, code analysis)
+**Threat modeling**: Client vulnerability and security analysis, defining probable threats, identifying prevention methodologies, infection and vulnerability mitigation, proactive threat capture and research
+
+**Communication**: Provides thoughtful, level-headed insight and analysis, both written and verbal. Communicates amicably and clearly with customers, co-workers, stakeholders
+
+**Team leadership**: Team founding, training, onboarding, and leading multiple security teams at multiple companies.  Lead through example and provided excellent technical assistance to help develop the team.  Designed incident handling, security triage, and process development for new teams
+
+**Process optimization**: Documentation, automation, and improving team effectiveness through prioritization and training. Prepares workflows and triage priority charts for incident handling
+
+**Machine Learning**: Convolutional Machine Learning fundamentals, Python pipeline implementation, data processing and transformation for machine learning input
+
+**Malware Reverse Engineering**: Malware identification and analysis (detection signatures/regexes, decoding obfuscation, code analysis)
 
 **CERTIFICATIONS**
 
-Master's in Computer Science (NAU, AZ)
+Master's in Computer Science (Northern Arizona University, Flagstaff, AZ, USA)
 
-Bachelor's in Computer Engineering (Queen's University, Canada)
+Bachelor's in Computer Engineering (Queen's University, Kingston, ON, Canada)
 
 GIAC GWAPT Certified - [https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url](https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url)
 
@@ -83,43 +140,6 @@ Machine Learning - Online Coursera Stanford Cert - [https://coursera.org/share/1
 
 
 
-
-**RECENT EXPERIENCE**
-
-**Wordfence / Defiant Inc** :
-Security Analyst, Threat Analyst
-
-09/2018 - 04/2023
-
- - Researched and prototyped company's first Machine Learning prototype for malware identification, coordinating with Development team for first build
- - Performed application security review of WordPress plugins as they updated: vulnerability analysis via code analysis and debugging tools, white box testing, researching and creating exploitation method and scripting, confirming software functionality after firewall rule implementation
- - Conducted vulnerability analysis and security assessments for customers
-   - Analysis included infection forensic analysis and remediation
- - Determined threat behaviors of obfuscated code (such as PHP and JS)
- - Established workflow, training, and data sample processes for the Threat Analysis team, including signature development, vulnerability triage, and ML
- - Led major pushes for improvement: detection recall, signature optimization, team strategy and priority, training initiatives, machine learning adoption
- - Created and performed major training initiatives, training team members on malware detection and malware research
- - Developed rapid tooling in Bash, PHP, and Python for machine learning, sample analysis, malware deobfuscation, and signature authorship workflows
- - Created and maintained comprehensive documentation - Bookstack docs, Diagrams.net workflows, training videos and sessions for team members, help info for all team-developed internal tools, video tutorials for complex workflow tools
-
-**SiteLock** :
-Senior Web Security Research Analyst, Web Vulnerability Research Analyst
-
-11/2013 - 08/2018
-
-- Researched, assessed, and redesigned security patches on major CMSs and plugins for backporting and distribution to customers
-- Performed static code analysis for security review using leading enterprise tools
-- Investigated compromised websites, removed infections, remediated PHP XSS and SQLi flaws
-- Deobfuscated and researched PHP and JavaScript code for behavior analysis (both malicious and legitimate code)
-- Lead internal incident responses (from detection/clean failures) to minimize customer impact, inform upper management, and conduct post-mortem analysis.
-  - Wrote the official Incident Response Plan for internal failures relating to the team
-- Assembled and lead the malware analysis and vulnerability analysis teams
-- Established the mitigation, process, training, and incident handling process for both the malware analysis and vulnerability analysis teams
-- Developed sophisticated tool in Bash and Python for enhanced CMS analysis and summary reporting
-  - Tool became part of standard protocol for entire support division for years
-- Authored web security articles for the SiteLock blog
-- Coordinated with customers over the phone and via email in order to resolve client issues and security incidents
-- Participated in sales and support calls as technical SME
 
 **EDUCATION**
 
