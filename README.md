@@ -16,6 +16,22 @@ Gregory Bloom
 
 **RECENT EXPERIENCE**
 -
+**_(undisclosed bank)_** :
+Lead Information Security Engineer
+
+12/2023 - current
+
+- Research and creation of Endpoint Detection for Wells Fargo internal security
+    - Creation of new endpoint/network detections
+    - Breaking loosely defined stories down into actionable features and requirements
+    - Established templates and documentation for reducing errors
+- Rapid onboarding of new processes in a continuously changing environment
+    - Constant adaptation and training for new systems and tasks, and with frequent updates to requirements and procedure
+    - Quickly became a resource for finding resolution to difficult problems
+- Built a quick rapport with the team - helping answer questions and solve problems
+    - Conducting training for technical aspects of signature detection
+    - Experienced with understanding the purpose of changes and communicating this to the team members
+
 **_Wordfence / Defiant Inc_** :
 Security Analyst, Threat Analyst
 
@@ -99,9 +115,9 @@ Master's in Computer Science (Northern Arizona University, Flagstaff, AZ, USA)
 
 Bachelor's in Computer Engineering (Queen's University, Kingston, ON, Canada)
 
-GIAC GWAPT Certified - [https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url](https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url)
+GIAC GWAPT Certified - [https://www.credly.com/badges/48c47616-6f27-4396-b7a6-7e54ebdc195f/public_url](https://www.credly.com/badges/48c47616-6f27-4396-b7a6-7e54ebdc195f/public_url)
 
-CompTia PenTest+ Certified - [https://www.youracclaim.com/badges/422db4c3-f953-473e-8905-fc60feb064cb/public_url](https://www.youracclaim.com/badges/cdd55027-17bf-4474-9bbd-ae0b2bf83a88/public_url)
+CompTia PenTest+ Certified - [https://www.credly.com/badges/7f985c5b-548e-4cdd-ab4b-3463e8b22d3a/public_url](https://www.credly.com/badges/7f985c5b-548e-4cdd-ab4b-3463e8b22d3a/public_url)
 
 Cyberfire Malware Forensics Training - [https://github.com/gregorybloom/resume/blob/main/assets/CyberFire2023Certificate.pdf](https://github.com/gregorybloom/resume/blob/main/assets/CyberFire2023Certificate.pdf) - team bowser - Final Scores [01](https://github.com/gregorybloom/resume/blob/main/assets/CyberFire2023FinalScores01.PNG) & [02](https://github.com/gregorybloom/resume/blob/main/assets/CyberFire2023FinalScores02.PNG)
 
